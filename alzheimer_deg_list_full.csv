@@ -1,0 +1,139 @@
+ID,adj.P.Val,P.Value,t,B,logFC,GI,Gene.symbol,Gene.title,Direction
+ILMN_1670379,2.13e-14,1.10e-18,-12.1900671,31.984998,-1.33995038,208022654,ANTXR1,anthrax toxin receptor 1,Downregulated
+ILMN_3251672,2.13e-14,2.41e-18,-11.9859003,31.231735,-1.27685475,972775985,DSG2,desmoglein 2,Downregulated
+ILMN_2072178,2.13e-14,2.70e-18,-11.9562573,31.121912,-1.19189657,157694509,ECHDC3,enoyl-CoA hydratase domain containing 3,Downregulated
+ILMN_1672536,2.73e-14,4.04e-18,-11.8516524,30.733455,-1.34284874,34734065,FBLN1,fibulin 1,Downregulated
+ILMN_1754795,5.75e-14,9.71e-18,-11.6250537,29.887124,-1.02980248,75813622,FAT1,FAT atypical cadherin 1,Downregulated
+ILMN_1689176,7.61e-14,1.45e-17,-11.5226295,29.502431,-1.71465673,109715836,NDNF,neuron derived neurotrophic factor,Downregulated
+ILMN_1815938,1.41e-13,3.28e-17,-11.3138559,28.714241,-1.04193148,55953094,TRPM3,transient receptor potential cation channel subfamily M member 3,Downregulated
+ILMN_1689046,2.07e-13,5.25e-17,-11.1939572,28.25916,-1.10361156,148833510,RBM47,RNA binding motif protein 47,Downregulated
+ILMN_1686906,3.63e-13,9.98e-17,11.0309798,27.637796,1.24829541,1043261394,TP53INP2,tumor protein p53 inducible nuclear protein 2,Upregulated
+ILMN_1782938,4.77e-13,1.41e-16,-10.9434767,27.302886,-1.50678429,221139821,SLC16A10,solute carrier family 16 member 10,Downregulated
+ILMN_2150402,5.03e-13,1.59e-16,-10.9127156,27.184938,-1.15467234,223555957,TMEM64,transmembrane protein 64,Downregulated
+ILMN_1757837,5.13e-13,1.74e-16,-10.891429,27.103254,-1.13266329,281371345,CFAP206,cilia and flagella associated protein 206,Downregulated
+ILMN_1670807,5.47e-13,1.97e-16,-10.8599712,26.982445,-1.28622939,307611973,FAM84B,family with sequence similarity 84 member B,Downregulated
+ILMN_1696316,5.86e-13,2.23e-16,-10.8285416,26.86163,-1.04064538,188595714,CPT1A,carnitine palmitoyltransferase 1A,Downregulated
+ILMN_1745501,6.17e-13,3.11e-16,-10.7448478,26.539365,-1.11369574,37595559,DNALI1,dynein axonemal light intermediate chain 1,Downregulated
+ILMN_1744487,6.17e-13,3.13e-16,-10.7433573,26.533619,-1.78611734,510025460,C1QTNF5,C1q and tumor necrosis factor related protein 5,Downregulated
+ILMN_1737631,8.23e-13,4.70e-16,10.6414927,26.140308,1.1195108,442796406,PAQR6,progestin and adipoQ receptor family member 6,Upregulated
+ILMN_1801703,1.46e-12,9.65e-16,10.461755,25.443543,1.05837049,34335235,CPLX1,complexin 1,Upregulated
+ILMN_1793410,1.46e-12,9.85e-16,-10.4564494,25.422923,-1.1079292,208879457,SNTB1,syntrophin beta 1,Downregulated
+ILMN_1750271,1.49e-12,1.04e-15,10.4440522,25.374729,1.30492762,507417957,MOBP,myelin-associated oligodendrocyte basic protein,Upregulated
+ILMN_1805603,1.91e-12,1.37e-15,-10.3739283,25.10182,-1.11263385,94681048,CFAP43,cilia and flagella associated protein 43,Downregulated
+ILMN_2398939,3.77e-12,3.19e-15,10.1651886,24.28645,1.15738345,68509927,MBP,myelin basic protein,Upregulated
+ILMN_1769433,4.57e-12,3.99e-15,-10.1097983,24.069354,-1.02960605,550544222,IQGAP2,IQ motif containing GTPase activating protein 2,Downregulated
+ILMN_1699537,4.57e-12,4.06e-15,-10.1054277,24.052212,-1.21698571,809281396,C9orf135,chromosome 9 open reading frame 135,Downregulated
+ILMN_1662390,4.75e-12,4.32e-15,10.0901489,23.992269,1.07101714,38708312,ASPHD1,aspartate beta-hydroxylase domain containing 1,Upregulated
+ILMN_2157240,6.15e-12,5.71e-15,-10.0208804,23.72023,-1.12131682,209915559,MNS1,meiosis specific nuclear structural 1,Downregulated
+ILMN_1692219,1.04e-11,1.18e-14,-9.8421184,23.016104,-1.03098191,289547523,RAB11FIP1,RAB11 family interacting protein 1,Downregulated
+ILMN_2186216,1.05e-11,1.24e-14,-9.8293603,22.96574,-1.09339127,815890942,GOLIM4,golgi integral membrane protein 4,Downregulated
+ILMN_1796094,1.43e-11,1.72e-14,-9.7500722,22.65242,-1.02222138,188536061,CD36,CD36 molecule,Downregulated
+ILMN_1693319,1.49e-11,1.83e-14,-9.7350651,22.593055,-1.4039515,189217902,EYA4,EYA transcriptional coactivator and phosphatase 4,Downregulated
+ILMN_1746949,2.06e-11,2.79e-14,-9.6317229,22.18374,-1.0902128,916532139,CFAP53,cilia and flagella associated protein 53,Downregulated
+ILMN_2251114,2.15e-11,2.96e-14,9.6173333,22.126675,1.01685302,542133092,SEPT4,septin 4,Upregulated
+ILMN_1676663,2.50e-11,3.73e-14,-9.5602363,21.900081,-1.52225783,148743792,TNFRSF11B,TNF receptor superfamily member 11b,Downregulated
+ILMN_1775042,2.50e-11,3.75e-14,-9.5594334,21.896893,-1.41358701,32189424,DAW1,dynein assembly factor with WD repeats 1,Downregulated
+ILMN_2054652,2.86e-11,4.65e-14,-9.506442,21.686356,-1.2514787,169881242,TYRP1,tyrosinase related protein 1,Downregulated
+ILMN_1702255,3.59e-11,6.00e-14,9.4445874,21.44033,1.35989243,240255504,KCNT1,potassium sodium-activated channel subfamily T member 1,Upregulated
+ILMN_2201678,3.99e-11,6.74e-14,-9.4159766,21.326433,-1.11853955,197304788,FSTL1,follistatin like 1,Downregulated
+ILMN_1694426,4.16e-11,7.11e-14,-9.4029377,21.274506,-1.06321558,317008621,ROR2,receptor tyrosine kinase like orphan receptor 2,Downregulated
+ILMN_1717757,4.72e-11,8.18e-14,-9.3690341,21.139427,-1.06376214,110227595,CALML4,calmodulin like 4,Downregulated
+ILMN_2352131,5.72e-11,1.16e-13,-9.2833816,20.797802,-1.04959159,584277099,ERBB2,erb-b2 receptor tyrosine kinase 2,Downregulated
+ILMN_1798855,5.72e-11,1.17e-13,-9.2811366,20.788841,-1.05886248,114155157,RASSF9,Ras association domain family member 9,Downregulated
+ILMN_1796734,6.17e-11,1.29e-13,-9.2577367,20.695418,-1.1931109,365777426,SPARC,secreted protein acidic and cysteine rich,Downregulated
+ILMN_1719906,7.81e-11,1.75e-13,-9.1840861,20.401129,-1.04668179,296179428,HADH,hydroxyacyl-CoA dehydrogenase,Downregulated
+ILMN_3239213,1.04e-10,2.50e-13,-9.0973246,20.054002,-1.20602698,157426880,PIRT,phosphoinositide interacting regulator of transient receptor potential channels,Downregulated
+ILMN_1718949,1.55e-10,4.02e-13,-8.9822151,19.592747,-1.36437918,223633936,SLC39A12,solute carrier family 39 member 12,Downregulated
+ILMN_2136147,1.57e-10,4.15e-13,8.9746596,19.562445,1.28328489,1020738672,BCAS1,breast carcinoma amplified sequence 1,Upregulated
+ILMN_2251225,1.58e-10,4.22e-13,-8.9705515,19.545967,-1.491455,282165777,WDR78,WD repeat domain 78,Downregulated
+ILMN_1756550,1.87e-10,5.11e-13,-8.9241724,19.359878,-1.23631402,222144276,NUP62CL,nucleoporin 62 C-terminal like,Downregulated
+ILMN_1711408,2.51e-10,7.23e-13,-8.8404289,19.023581,-1.13723718,1002623481,ANXA4,annexin A4,Downregulated
+ILMN_2334210,2.56e-10,7.43e-13,-8.8336837,18.996478,-1.27385667,54607026,ITGB4,integrin subunit beta 4,Downregulated
+ILMN_1730998,2.70e-10,8.15e-13,-8.8112875,18.906472,-1.13153285,523567553,TSPAN6,tetraspanin 6,Downregulated
+ILMN_2149164,2.94e-10,9.06e-13,-8.7858349,18.804153,-1.11452913,257196278,SFRP1,secreted frizzled related protein 1,Downregulated
+ILMN_1697317,3.11e-10,9.66e-13,-8.7701459,18.741069,-1.33495193,756992482,DYNLRB2,dynein light chain roadblock-type 2,Downregulated
+ILMN_1694810,3.16e-10,9.94e-13,8.7632818,18.713465,1.0375843,163659919,PANX2,pannexin 2,Upregulated
+ILMN_3289297,3.56e-10,1.16e-12,-8.7260201,18.563582,-1.23260725,170763518,TACC1,transforming acidic coiled-coil containing protein 1,Downregulated
+ILMN_2359306,3.56e-10,1.17e-12,-8.7241573,18.556087,-1.19099526,110835716,CAPSL,calcyphosine like,Downregulated
+ILMN_1719599,3.56e-10,1.18e-12,-8.7229162,18.551094,-1.19339473,193804859,SYTL4,synaptotagmin like 4,Downregulated
+ILMN_1814369,5.39e-10,1.91e-12,-8.6053982,18.077981,-1.21111477,254911042,C21orf62,chromosome 21 open reading frame 62,Downregulated
+ILMN_2125763,5.54e-10,2.01e-12,-8.5929145,18.027691,-1.15015733,817475217,ZMYND10,zinc finger MYND-type containing 10,Downregulated
+ILMN_1724355,5.92e-10,2.22e-12,-8.5698992,17.934961,-1.13276983,510025447,MFRP,membrane frizzled-related protein,Downregulated
+ILMN_1699665,6.24e-10,2.37e-12,-8.5533803,17.868393,-1.25148937,948549899,CLIC6,chloride intracellular channel 6,Downregulated
+ILMN_1669227,6.63e-10,2.61e-12,-8.5306422,17.776747,-1.20543127,1017029571,ADRA1A,adrenoceptor alpha 1A,Downregulated
+ILMN_1698179,7.75e-10,3.16e-12,8.4841584,17.589342,1.1441858,56549138,TAGLN3,transgelin 3,Upregulated
+ILMN_1732410,8.82e-10,3.75e-12,-8.443282,17.424487,-1.25307586,197383642,SLC16A9,solute carrier family 16 member 9,Downregulated
+ILMN_1689088,1.05e-09,4.82e-12,-8.3826541,17.179887,-1.45067755,197245360,COLEC12,collectin subfamily member 12,Downregulated
+ILMN_1792495,1.14e-09,5.32e-12,-8.359046,17.084616,-1.0265569,427918085,AHNAK,AHNAK nucleoprotein,Downregulated
+ILMN_2155816,1.14e-09,5.33e-12,8.3585997,17.082815,1.01121521,747811824,DIRAS2,DIRAS family GTPase 2,Upregulated
+ILMN_1791302,1.26e-09,6.06e-12,-8.3274236,16.956982,-1.20719481,148746212,EFHC2,EF-hand domain containing 2,Downregulated
+ILMN_2307903,1.74e-09,9.21e-12,-8.2268577,16.55094,-1.72612373,315434269,VCAM1,vascular cell adhesion molecule 1,Downregulated
+ILMN_1721758,1.86e-09,9.96e-12,-8.207867,16.474243,-1.1912111,365733618,ID4,"inhibitor of DNA binding 4, HLH protein",Downregulated
+ILMN_1777397,1.91e-09,1.06e-11,-8.1930726,16.41449,-1.11015005,118582283,MSX1,msh homeobox 1,Downregulated
+ILMN_2194009,2.14e-09,1.20e-11,-8.1629154,16.29268,-1.01941646,685504967,ABCC4,ATP binding cassette subfamily C member 4,Downregulated
+ILMN_1708130,2.14e-09,1.21e-11,-8.1607538,16.283948,-1.18580839,331028750,EHF,ETS homologous factor,Downregulated
+ILMN_2223903,2.50e-09,1.50e-11,-8.1092931,16.076063,-1.04025227,45439319,PPIC,peptidylprolyl isomerase C,Downregulated
+ILMN_1813695,3.13e-09,1.98e-11,-8.0428513,15.807625,-1.41600089,178557738,C4B,complement component 4B (Chido blood group),Downregulated
+ILMN_2250521,3.13e-09,1.98e-11,-8.0421356,15.804733,-1.46250996,442535525,INS-IGF2,INS-IGF2 readthrough,Downregulated
+ILMN_1730229,3.31e-09,2.11e-11,-8.0269162,15.74324,-1.00263279,356874771,CGNL1,cingulin like 1,Downregulated
+ILMN_1795679,3.71e-09,2.45e-11,7.9917419,15.601119,1.01229252,312922387,STMN2,stathmin 2,Upregulated
+ILMN_1671365,4.14e-09,2.81e-11,-7.9585904,15.467168,-1.28776449,304766735,PRODH,proline dehydrogenase 1,Downregulated
+ILMN_1709479,4.36e-09,3.04e-11,-7.9398626,15.391499,-1.19820256,303523510,YAP1,Yes associated protein 1,Downregulated
+ILMN_1766038,4.36e-09,3.05e-11,-7.9386445,15.386577,-1.20418118,154240676,C11orf88,chromosome 11 open reading frame 88,Downregulated
+ILMN_1775486,4.48e-09,3.19e-11,-7.9277604,15.3426,-1.03580992,209529676,SSPN,sarcospan,Downregulated
+ILMN_1709233,5.33e-09,3.91e-11,-7.8790625,15.145842,-1.32559982,119395710,F5,coagulation factor V,Downregulated
+ILMN_2350634,5.48e-09,4.09e-11,-7.8680989,15.101547,-1.14143435,320118885,EFEMP1,EGF containing fibulin like extracellular matrix protein 1,Downregulated
+ILMN_2267488,6.78e-09,5.24e-11,-7.8084967,14.86076,-1.05233747,937834184,ITGA6,integrin subunit alpha 6,Downregulated
+ILMN_1695443,7.89e-09,6.34e-11,-7.7627816,14.676103,-1.14555828,544583442,MAP3K19,mitogen-activated protein kinase kinase kinase 19,Downregulated
+ILMN_1775736,1.29e-08,1.14e-10,7.6213308,14.104965,1.05313858,33391149,NPM2,nucleophosmin/nucleoplasmin 2,Upregulated
+ILMN_2311166,1.49e-08,1.36e-10,-7.5788053,13.933348,-1.07785583,735997408,ITGB5,integrin subunit beta 5,Downregulated
+ILMN_1721540,1.70e-08,1.58e-10,-7.5433908,13.790468,-1.58934456,308736993,NWD1,NACHT and WD repeat domain containing 1,Downregulated
+ILMN_2184064,1.93e-08,1.85e-10,-7.5054538,13.637454,-1.11823621,190886441,ARRDC4,arrestin domain containing 4,Downregulated
+ILMN_1689212,1.97e-08,1.90e-10,-7.4987634,13.610474,-1.34784661,239582733,RSPH4A,radial spoke head 4 homolog A,Downregulated
+ILMN_1727087,1.98e-08,1.92e-10,-7.4965359,13.601491,-1.10759406,635574611,GJA1,gap junction protein alpha 1,Downregulated
+ILMN_1734929,2.03e-08,1.99e-10,-7.4872075,13.563877,-1.07060285,95147560,BBOX1,gamma-butyrobetaine hydroxylase 1,Downregulated
+ILMN_1667948,2.07e-08,2.05e-10,-7.4804424,13.5366,-1.05041015,662236809,SPATA18,spermatogenesis associated 18,Downregulated
+ILMN_2139396,2.40e-08,2.46e-10,-7.4364917,13.359433,-1.0177599,734703847,IGDCC4,immunoglobulin superfamily DCC subclass member 4,Downregulated
+ILMN_1711030,2.93e-08,3.03e-10,-7.3860293,13.156111,-1.0284559,589288226,OPLAH,5-oxoprolinase (ATP-hydrolysing),Downregulated
+ILMN_1736178,3.28e-08,3.47e-10,-7.3532236,13.023991,-1.57587779,495528518,AEBP1,AE binding protein 1,Downregulated
+ILMN_2215989,3.46e-08,3.72e-10,7.3365017,12.956665,1.16102241,157738648,NEFM,"neurofilament, medium polypeptide",Upregulated
+ILMN_1662837,4.02e-08,4.53e-10,-7.2888922,12.765052,-1.06864313,140161536,WFIKKN2,"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 2",Downregulated
+ILMN_1798360,4.21e-08,4.78e-10,-7.2762241,12.714087,-1.13847075,114155149,ACKR3,atypical chemokine receptor 3,Downregulated
+ILMN_1670606,5.08e-08,6.11e-10,-7.2165478,12.474119,-1.03177241,59889570,GABRG1,gamma-aminobutyric acid type A receptor gamma1 subunit,Downregulated
+ILMN_3243057,5.80e-08,7.33e-10,-7.1727694,12.298209,-1.04623025,544346277,ARMC3,armadillo repeat containing 3,Downregulated
+ILMN_2129234,6.00e-08,7.71e-10,-7.1605361,12.249074,-1.00965444,169234733,TMEM47,transmembrane protein 47,Downregulated
+ILMN_1777170,6.19e-08,7.99e-10,-7.1517148,12.213649,-1.17202084,157837998,FAM183A,family with sequence similarity 183 member A,Downregulated
+ILMN_1781626,6.29e-08,8.13e-10,-7.1475929,12.197098,-1.02813744,224967099,C1S,"complement component 1, s subcomponent",Downregulated
+ILMN_2400759,6.46e-08,8.41e-10,-7.1395671,12.164874,-1.19934795,83641873,CPVL,"carboxypeptidase, vitellogenic like",Downregulated
+ILMN_2374683,6.94e-08,9.15e-10,-7.1189325,12.082045,-1.07138726,194688154,PTPN13,"protein tyrosine phosphatase, non-receptor type 13",Downregulated
+ILMN_1778625,1.13e-07,1.66e-09,-6.9752249,11.506021,-1.03238046,48255934,CD44,CD44 molecule (Indian blood group),Downregulated
+ILMN_2053103,1.22e-07,1.83e-09,-6.9504761,11.406978,-1.00865082,187607385,SLC40A1,solute carrier family 40 member 1,Downregulated
+ILMN_2140191,1.61e-07,2.59e-09,6.867065,11.073554,1.31779989,52317199,OR2M3,olfactory receptor family 2 subfamily M member 3,Upregulated
+ILMN_1781400,1.76e-07,2.88e-09,-6.8413822,10.971014,-1.04477239,258614004,SLC7A2,solute carrier family 7 member 2,Downregulated
+ILMN_2367883,1.84e-07,3.01e-09,-6.8298984,10.925184,-1.12414301,260593688,GEM,GTP binding protein overexpressed in skeletal muscle,Downregulated
+ILMN_1788931,2.20e-07,3.78e-09,-6.7748338,10.705604,-1.01196573,254750683,DOCK8,dedicator of cytokinesis 8,Downregulated
+ILMN_2144297,2.21e-07,3.80e-09,-6.7735366,10.700434,-1.35989573,225543112,SLCO1C1,solute carrier organic anion transporter family member 1C1,Downregulated
+ILMN_2060413,2.72e-07,4.87e-09,-6.7129641,10.459246,-1.40680512,619329004,CD24,CD24 molecule,Downregulated
+ILMN_3272378,2.91e-07,5.28e-09,-6.693531,10.381948,-1.0331375,161702984,EZR,ezrin,Downregulated
+ILMN_2065254,2.99e-07,5.48e-09,6.6844377,10.345792,1.03759519,661567325,ELAVL4,ELAV like neuron-specific RNA binding protein 4,Upregulated
+ILMN_2151114,3.71e-07,7.03e-09,6.6233897,10.103292,1.0792334,63252921,VSNL1,visinin like 1,Upregulated
+ILMN_1710495,5.12e-07,1.01e-08,-6.5346282,9.751474,-1.10062302,145309327,PAPLN,"papilin, proteoglycan like sulfated glycoprotein",Downregulated
+ILMN_1659086,7.74e-07,1.70e-08,6.4068904,9.246899,1.21985436,427197592,NEFL,"neurofilament, light polypeptide",Upregulated
+ILMN_1700183,8.05e-07,1.79e-08,-6.3948138,9.199308,-1.34636922,253314537,APLNR,apelin receptor,Downregulated
+ILMN_1810172,8.36e-07,1.88e-08,-6.3821103,9.149269,-1.04354184,170784837,SFRP4,secreted frizzled related protein 4,Downregulated
+ILMN_2138589,8.65e-07,1.96e-08,-6.3721043,9.109871,-1.08099276,66932917,MERTK,"MER proto-oncogene, tyrosine kinase",Downregulated
+ILMN_1712419,8.90e-07,2.03e-08,-6.3632339,9.074956,-1.1351913,442535519,DCDC2,doublecortin domain containing 2,Downregulated
+ILMN_2137789,9.75e-07,2.27e-08,-6.3358552,8.967262,-1.17390737,930697453,KLF4,Kruppel like factor 4,Downregulated
+ILMN_2184184,1.09e-06,2.61e-08,-6.3015979,8.832664,-1.10435062,733606737,ANXA1,annexin A1,Downregulated
+ILMN_1798046,1.46e-06,3.76e-08,6.2112318,8.478468,1.03552953,124294884,GABRB2,gamma-aminobutyric acid type A receptor beta2 subunit,Upregulated
+ILMN_1801205,3.78e-06,1.22e-07,-5.9192361,7.34334,-1.09663353,52694751,GPNMB,glycoprotein nmb,Downregulated
+ILMN_1725746,5.12e-06,1.76e-07,5.8257305,6.98321,1.02106115,148839341,CARNS1,carnosine synthase 1,Upregulated
+ILMN_1754370,1.02e-05,4.16e-07,-5.6086548,6.154323,-1.11156575,27502372,SPAG8,sperm associated antigen 8,Downregulated
+ILMN_1722898,1.13e-05,4.74e-07,-5.5758389,6.029951,-1.00853714,52630413,SFRP2,secreted frizzled related protein 2,Downregulated
+ILMN_1669523,7.15e-05,4.47e-06,-4.993413,3.87023,-1.28040065,254750707,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",Downregulated
+ILMN_1720048,1.18e-04,8.17e-06,-4.8323642,3.29123,-1.26888013,56119169,CCL2,C-C motif chemokine ligand 2,Downregulated
+ILMN_1788874,1.26e-04,8.96e-06,-4.8075983,3.202981,-1.6688547,73858562,SERPINA3,serpin family A member 3,Downregulated
+ILMN_1739366,2.00e-04,1.60e-05,4.6513505,2.651322,1.02708716,969812478,TBR1,"T-box, brain 1",Upregulated
+ILMN_2198912,3.45e-04,3.16e-05,-4.4627396,1.997784,-1.09918843,221136767,TTR,transthyretin,Downregulated
+ILMN_1761903,1.25e-03,1.57e-04,4.005873,0.477459,1.04080767,1017029555,KCNS1,potassium voltage-gated channel modifier subfamily S member 1,Upregulated
+ILMN_1764573,2.25e-02,6.05e-03,-2.8351629,-2.912233,-1.05143096,383087740,XIST,X inactive specific transcript (non-protein coding),Downregulated
